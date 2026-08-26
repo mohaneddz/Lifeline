@@ -1,3 +1,5 @@
+![Lifeline](screenshots/cover.avif)
+
 # Lives
 
 Lives is a humanitarian mobile app — in its own words, "made to help our brothers in gaza, with map based utilities." It's built with Flutter and combines a map-based interface with a two-sided user system: regular **Users** and **Contributors** (Individual or Association), the latter requiring identity/registration document upload and admin verification.
